@@ -115,6 +115,7 @@ hr {
 
 .ow{
     background-color: var(--off-white);
+   
 }
 
 .footer{
@@ -123,7 +124,6 @@ hr {
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
-    padding: 2rem 1rem;
 }
 
 .footer .footer-header{
