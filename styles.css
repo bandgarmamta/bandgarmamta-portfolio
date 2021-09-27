@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,400&display=swap');
 
 :root {
-    --primary-color: #7C3AED;
+    --primary-color: #818CF8;
     --dark-gray: #6B7280;
     --off-white: #F3F4F6;
 }
@@ -15,6 +15,10 @@ body{
 hr {
     margin: 2rem 0rem;
 }
+
+.margin-md{
+    margin:2rem;
+}
 .container{
     padding: 0rem 1rem;
 
@@ -26,8 +30,11 @@ hr {
 }
 
 .link{
+    box-sizing: border-box;
     text-decoration:none;
     padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 .link-primary{
