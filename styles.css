@@ -105,12 +105,6 @@ hr {
     color: var(--primary-color);
 }
 
-.blog-img{
-    float:right;
-    max-width: 300px;
-    display: block;
-    position: relative;
-}
 
 .section {
     padding: 2rem;
